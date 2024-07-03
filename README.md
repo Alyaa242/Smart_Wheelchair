@@ -5,5 +5,5 @@
 - **Joystick:** by moving the joystick in the screen to the desired direction.
 - **Sound:** by saying the desired direction.
 
-![image](https://github.com/Alyaa242/Smart_Wheelchair/blob/main/pics/Joystick.png)
-![image](https://github.com/Alyaa242/Smart_Wheelchair/blob/main/pics/Sound.png)
+![image](https://github.com/Alyaa242/Smart_Wheelchair/blob/main/pics/Joystick.png = 250x250)
+![image](https://github.com/Alyaa242/Smart_Wheelchair/blob/main/pics/Sound.png = 250x250)
