@@ -7,5 +7,5 @@
   
 <figure class="half" style="display:flex">
     <img style="width:400px" height="800" src="https://github.com/Alyaa242/Smart_Wheelchair/blob/main/pics/Joystick.png">
-    <img style="width:500px" height="800" src="https://github.com/Alyaa242/Smart_Wheelchair/blob/main/pics/Sound.png">
+    <img style="width:400px" height="800" src="https://github.com/Alyaa242/Smart_Wheelchair/blob/main/pics/Sound.png">
 </figure>
